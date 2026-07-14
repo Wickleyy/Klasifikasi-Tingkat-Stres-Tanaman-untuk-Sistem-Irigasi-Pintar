@@ -167,8 +167,8 @@ Performa terbaik diperoleh pada:
 Clone repository:
 
 ```bash
-git clone https://github.com/username-anda/nama-repo.git
-cd nama-repo
+git clone https://github.com/Wickleyy/Klasifikasi-Tingkat-Stres-Tanaman-untuk-Sistem-Irigasi-Pintar
+cd Klasifikasi-Tingkat-Stres-Tanaman-untuk-Sistem-Irigasi-Pintar
 ```
 
 Install seluruh dependency:
